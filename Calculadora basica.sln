@@ -5,6 +5,12 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculadora basica", "Calculadora basica\Calculadora basica.csproj", "{C2374D62-70B4-4024-9496-0099804C3BF7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Otros", "Otros", "{01980042-654F-4AD1-A979-5DAB7ADEEE1E}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		..\..\..\..\..\..\Fondos\Animados\banner.gif = ..\..\..\..\..\..\Fondos\Animados\banner.gif
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

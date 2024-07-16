@@ -1,6 +1,4 @@
-﻿using System.Dynamic;
-
-namespace Calculadora_basica
+﻿namespace Calculadora_basica
 {
     internal class Program
     {
